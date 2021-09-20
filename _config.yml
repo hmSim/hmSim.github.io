@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Hyunman Sim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I'm a Biostatistics Ph.D candidate at Seoul National University. Currently, my interest focuses on causal inference, survival analysis and missing data problem."
   location         : "Seoul National University"
   email            :
   links:

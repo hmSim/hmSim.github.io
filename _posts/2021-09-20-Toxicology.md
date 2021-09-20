@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "First"
+title: "[Toxicology] Principles of Toxicology"
 categories:
 - Toxicology
 ---
 
-[1st]
+Principles of Toxicology
