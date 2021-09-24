@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Boosting"
 categories:
 - Machine-Learning

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Principles of Toxicology"
 categories:
 - Toxicology
