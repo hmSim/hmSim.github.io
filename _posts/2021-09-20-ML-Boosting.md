@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Boosting"
+title: "[Machine Learning] Boosting"
 categories:
 - Machine-Learning
 ---

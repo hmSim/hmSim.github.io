@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Principles of Toxicology"
+title: "[Toxicology] Principles of Toxicology"
 categories:
 - Toxicology
 ---
