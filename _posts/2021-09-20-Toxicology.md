@@ -136,6 +136,11 @@ Biotransformation을 정리하면 중간에서 정리를 하면 친지질성을 
 - Covalent binding: 공유결합
 - Macromolecule: 고분자
 - Intermediate(=reactive metabolite): 중간 대사물
+- Tumorigenesis: 종양의 형성
+- Nephrotoxicity: 신장독성
+- Tubule: 세뇨관
+- Substrate: 효소에 대응되는 기질
+- Epoxide: 산소 원자가 동일 분자 내의 2원자의 탄소와 결합되어 있는 화합물(C-O-C, C-C)
 
 # 출처
 [1]  
