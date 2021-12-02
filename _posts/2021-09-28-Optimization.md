@@ -5,7 +5,11 @@ categories:
 - Optimization
 ---
 
-
-[Algorithm 1] Gradient Descent    
-[Algorithm 1.1] Conjugate Gradient Descent(CGD)  
-[Algorithm 1.2] Stochastic Gradient Descent(SGD)
+[Algorithm] Greed search(GS)  
+[Algorithm] Newton-Raphson  
+[Algorithm] Iterative weighted least sqaure(IWLS)  
+[Algorithm] Expectation-Maximization(EM)  
+[Algorithm] Gradient Descent    
+[Algorithm] Conjugate Gradient Descent(CGD)  
+[Algorithm] Stochastic Gradient Descent(SGD)
+[Algorithm] Variants of SGD
