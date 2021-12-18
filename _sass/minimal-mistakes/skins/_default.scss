@@ -2,8 +2,8 @@
    Default skin
    ========================================================================== */
 
-.page__title{
-   color: $link-color;
-   }
-$primary-color: #9966ff !default;
-$link-color: #9966ff !default;  
+   $primary-color: #9966ff !default;
+   $link-color: #9966ff !default;
+   .page__title{
+      color: $link-color;
+      }
