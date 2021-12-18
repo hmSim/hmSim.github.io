@@ -2,11 +2,7 @@
 main:
   - title: "GSPH(SNU)"
     url: https://health.snu.ac.kr
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Lab site"
+    url: https://sites.google.com/view/lwj221/home?authuser=0
+  - title: "Category"
+    url: /categories/
