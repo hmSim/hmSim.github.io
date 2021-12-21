@@ -27,4 +27,8 @@ Only patients alive at the landmark time are included in the analysis, separated
 - In the case of “responders,” response is possibly just a marker that selects the good prognosis patients.1,9 Because of the breakdown of the randomization property, the significantly longer survival in one group could be attributed to the better prognosis characteristics of the members of this group instead of the property of “group membership.” It should be recognized that in cases that landmark analysis results to a significant differential effect between groups as defined by the time of landmark, it can only claim “association” and not a “cause-effect” relationship between benefit and group membership. This is consistent with inference within the usual “observational study” framework with the group membership effect corresponding to the “treatment effect.” In this context, it is generally close to impossible to disentangle the effect of a “treatment” from the possibly confounding effects of the underlying factors that lead to “treatment allocation.” Nevertheless, this limitation of the landmark analysis is well known and it is shared by the ad hoc method suggested by Mantel and Byar or the time-varying covariate Cox model.
 - Alternative method: inverse probability weighted method
 
-#### 3. Connection between time-varying Cox model and landmark method
+#### 4. Connection between time-varying Cox model and landmark method
+
+#### 5. References
+[1]
+[2]
